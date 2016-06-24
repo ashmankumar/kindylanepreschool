@@ -7,6 +7,11 @@ body {
 	background-attachment: fixed;
 }
 
+#map {
+        height: 330px;
+        width: 330px;
+      }
+
 .apDiv12 {
 	-webkit-box-shadow: 0 15px 10px rgba(0,0,0, .7);
 	-moz-box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
