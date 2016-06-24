@@ -1,6 +1,12 @@
 @charset "utf-8";
 /* CSS Document */
 
+body {
+	background-image: url(backgrounds/VERY%20GOOD/split%20mountain%20without%20mountain%20with%20cloud%202.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
 .apDiv12 {
 	-webkit-box-shadow: 0 15px 10px rgba(0,0,0, .7);
 	-moz-box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
@@ -32,10 +38,6 @@
 	height:1087px;
 	z-index:2;
 	background-color: #FFFFFF;
-	
-	
-	
-
 	
 }
 .apDiv3 {
@@ -70,4 +72,222 @@
 	text-align: justify;
 	font-size: 18px;
 	
+}
+
+a {
+    color: black; 
+}
+
+a:visited {
+    color: black;
+}
+
+#apDiv14 {
+	position: absolute;
+	left: 244px;
+	top: 775px;
+	width: 512px;
+	height: 240px;
+	z-index: 18;
+}
+#apDiv15 {
+	position: absolute;
+	left: 245px;
+	top: 1039px;
+	width: 582px;
+	height: 1100px;
+	z-index: 19;
+}
+#apDiv16 {
+	position: absolute;
+	left: 452px;
+	top: 1140px;
+	width: 144px;
+	height: 28px;
+	z-index: 19;
+	font-weight: bold;
+	font-size: 18px;
+}
+#apDiv17 {
+	position: absolute;
+	left: 350px;
+	top: 738px;
+	width: 299px;
+	height: 27px;
+	z-index: 20;
+	text-align: center;
+	font-weight: bold;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#apDiv18 {
+	position: absolute;
+	left: 293px;
+	top: 1026px;
+	width: 157px;
+	height: 24px;
+	z-index: 21;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+}
+#apDiv19 {
+	position: absolute;
+	left: 272px;
+	top: 1058px;
+	width: 236px;
+	height: 64px;
+	z-index: 22;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	text-align: left;
+}
+#apDiv20 {
+	position: absolute;
+	left: 584px;
+	top: 1025px;
+	width: 150px;
+	height: 26px;
+	z-index: 23;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+#apDiv21 {
+	position: absolute;
+	left: 535px;
+	top: 1058px;
+	width: 238px;
+	height: 62px;
+	z-index: 24;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+
+
+
+
+
+#apDiv1 {
+	position:absolute;
+	left:184px;
+	top:12px;
+	width:282px;
+	height:235px;
+	z-index:6;
+}
+
+#apDiv2 {
+	position:absolute;
+	left:195px;
+	top:519px;
+	width:635px;
+	height:649px;
+	z-index:7;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+}
+#apDiv3 {
+	position: absolute;
+	left: 196px;
+	top: 538px;
+	width: 568px;
+	height: 62px;
+	z-index: 8;
+	font-size: 28px;
+	font-weight: bold;
+}
+#apDiv4 {
+	position:absolute;
+	left:433px;
+	top:40px;
+	width:462px;
+	height:103px;
+	z-index:9;
+	font-size: 32px;
+}
+#apDiv5 {
+	position:absolute;
+	left:182px;
+	top:1177px;
+	width:1002px;
+	height:76px;
+	z-index:10;
+	color: #FFF;
+	background-color: #232323;
+	text-align: center;
+}
+#apDiv6 {
+	position:absolute;
+	left:565px;
+	top:1177px;
+	width:256px;
+	height:77px;
+	z-index:11;
+	color: #FFF;
+	text-align: center;
+}
+#apDiv7 {
+	position:absolute;
+	left:857px;
+	top:1177px;
+	width:329px;
+	height:79px;
+	z-index:12;
+	background-color: #666666;
+	color: #FFF;
+}
+#apDiv8 {
+	position:absolute;
+	left:885px;
+	top:1193px;
+	width:210px;
+	height:58px;
+	z-index:12;
+	color: #FFF;
+}
+#apDiv9 {
+	position:absolute;
+	left:840px;
+	top:899px;
+	width:341px;
+	height:270px;
+	z-index:12;
+	background-color: #666666;
+	visibility: visible;
+}
+#apDiv10 {
+	position:absolute;
+	left:1088px;
+	top:1083px;
+	width:66px;
+	height:53px;
+	z-index:13;
+}
+
+
+#apDiv13 {
+	position: absolute;
+	left: 840px;
+	top: 522px;
+	width: 341px;
+	height: 370px;
+	z-index: 15;
+}
+
+.slideshow a#vlb{display:none}#apDiv12 {
+	position:absolute;
+	left:842px;
+	top:526px;
+	width:338px;
+	height:56px;
+	z-index:17;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-weight: bold;
+}
+
+.bold {
+	font-weight: bold;
 }
