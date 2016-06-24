@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+
+.apDiv12 {
+	-webkit-box-shadow: 0 15px 10px rgba(0,0,0, .7);
+	-moz-box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
+	box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
+	-webkit-transform: rotate(0deg);
+	-moz-transform: rotate(0deg);
+	-o-transform: rotate(0deg);
+	position: absolute;
+	left:182px;
+	top:133px;
+	width:1002px;
+	height:1121px;
+	z-index:1;
+}
+.apDiv1 {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:1366px;
+	height:1500px;
+	z-index:1;
+	background-image: url(backgrounds/crayons%20right%20size.jpg);
+}
+.apDiv2 {
+	position:absolute;
+	left:182px;
+	top:161px;
+	width:1002px;
+	height:1087px;
+	z-index:2;
+	background-color: #FFFFFF;
+	
+	
+	
+
+	
+}
+.apDiv3 {
+	position:absolute;
+	left:182px;
+	top:144px;
+	width:1002px;
+	height:302px;
+	z-index:3;
+	color: #666;
+	background-color: #666666;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+}
+.apDiv4 {
+	position:absolute;
+	left:182px;
+	top:445px;
+	width:1002px;
+	height:70px;
+	z-index:16;
+	background-color: #666666;
+}
+.apDiv5 {
+	position: absolute;
+	left: 847px;
+	top: 521px;
+	width: 341px;
+	height: 648px;
+	z-index: 5;
+}
+.apDiv2 p {
+	text-align: justify;
+	font-size: 18px;
+	
+}
