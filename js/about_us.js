@@ -1,3 +1,4 @@
+//code for loading map using google maps api with centre and marker at preschool
 var map;
 function initMap() {
 var center = {lat: -34.283035, lng: 146.04701};
