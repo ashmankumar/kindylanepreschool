@@ -12,7 +12,7 @@ window.onload = function facebookFeed() {
     iframeborder = '0';
     iframe.allowTransparency = 'true';
    
-    var apdivRef = document.getElementById('apDiv13');  //the div container for the feed
+    var apdivRef = document.getElementById('facebookDiv');  //the div container for the feed
     apdivRef.appendChild(iframe);
 
 }
